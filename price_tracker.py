@@ -118,7 +118,7 @@ def product_name(website,html):    #get html and return name of product
 
 
 
-file=open("html.txt","r")
+file=open("urls.txt","r")
 text=file.read()
 url_list = text.split('\n')
 

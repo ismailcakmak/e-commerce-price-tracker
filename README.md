@@ -17,6 +17,7 @@ The working mechanim is basicly like that :
  * create dictonary formed like that {url:[plarform_name,product_name,product_price]}
  * Then start by checking the dictionary elements one by one, if there is a change in the product price, send an e-mail to the desired address.
 
+finally : dont forget replace your email in the code file :)
 
 Thanks..
 

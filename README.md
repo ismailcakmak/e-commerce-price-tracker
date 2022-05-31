@@ -5,7 +5,7 @@ Hi, everyone.
 This program allows you to track prices from Amazon websites (.com .co.jp .com.tr etc) and leading Turkish e-commerce
 websites like Hepsiburada, Trendyol and N11.
 
-Just copy the links of product you want to track, and paste the link to txt file by line. 
+Just copy the links of product you want to track, and paste the link to urls.txt file by line. 
 
 I used Python, Selenium and Smtplib modules.
 
